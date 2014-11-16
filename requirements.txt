@@ -1,7 +1,7 @@
 flask==0.10.1
 #peewee
 #psycopg2
-#gunicorn
+gunicorn
 #requests
 #flask-login
 #flask-security
