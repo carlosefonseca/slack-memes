@@ -122,9 +122,9 @@ def go():
 #     return response
 
 
-# @app.route('/')
-# def welcome():
-#     return 'Hello World!'
+@app.route('/')
+def welcome():
+    return 'Hello World!'
 
 
 # @app.route('/api/v1/apps')
